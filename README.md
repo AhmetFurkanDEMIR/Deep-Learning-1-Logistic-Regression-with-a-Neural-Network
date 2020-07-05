@@ -1,5 +1,7 @@
 # Logistic Regression with a Neural Network
 
+* Sinir Ağı ile Lojistik Regresyon
+
 * Problem : Kedi ve Kedi olmayan sınıfları ayırt etmek.
 
 * Kendi oluşturduğumuz sinir ağı ile bu problemi çözdük
@@ -23,3 +25,5 @@
     * Test
     
     * Öğrenme oranı
+
+* Kaynak : Neural Networks and Deep Learning (Coursera) - https://www.coursera.org/learn/neural-networks-deep-learning
